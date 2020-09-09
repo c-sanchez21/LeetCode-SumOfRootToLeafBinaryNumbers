@@ -1,0 +1,13 @@
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.exe
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.deps.json
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.runtimeconfig.json
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.dll
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\bin\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.pdb
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.dll
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.pdb
+C:\Users\Z\source\repos\Git\Leetcode\SumOfRoofToLeafBinaryNumbers\SumOfRoofToLeafBinaryNumbers\obj\Debug\netcoreapp3.1\SumOfRoofToLeafBinaryNumbers.genruntimeconfig.cache
